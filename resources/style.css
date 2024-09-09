@@ -63,3 +63,17 @@ body {
 h1, p {
     color: #FFFFFF;
 }
+
+.temporary-message {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+}
+
+.temporary-message p {
+    font-size: 1.5rem;
+}
+
+.construction-sign {
+    max-height: 250px;
+}
